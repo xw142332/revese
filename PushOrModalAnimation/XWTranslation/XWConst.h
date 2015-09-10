@@ -6,4 +6,5 @@
 //  Copyright © 2015年 肖伟. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#define dismissAnimationDuration 1.5
+#define presentAnimationDuration 1.5
